@@ -9,7 +9,6 @@ const data = [
   //{ number: 1900, text: 'Github Followers', },
   //{ number: 5000, text: 'Github Stars', }
 ];
-
 const Acomplishments = () => (
  <Section>
   <SectionTitle>

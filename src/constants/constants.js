@@ -11,7 +11,7 @@ export const projects = [
   {
     title: 'Youtube_Clone',
     description: "Justinmedia is a youtube clone created with Reactjs, Rapidapi and Material UI 5. " ,
-      image: '/images/youtube-clone.png',
+      image: '/images/youtube-clone.jpg',
       tags: ['Material UI 5', 'RapidApi', 'React'],
     source: 'https://github.com/justiniyke29/youtube_clone',
     visit: 'https://justinmedia.netlify.app',

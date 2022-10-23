@@ -9,13 +9,22 @@ export const projects = [
     id: 0,
   },
   {
+    title: 'Youtube_Clone',
+    description: "Justinmedia is a youtube clone created with Reactjs, Rapidapi and Material UI 5. " ,
+      image: '/images/youtube-clone.png',
+      tags: ['Material UI 5', 'RapidApi', 'React'],
+    source: 'https://github.com/justiniyke29/youtube_clone',
+    visit: 'https://justinmedia.netlify.app',
+    id: 1,
+  },
+  {
     title: 'MEME-Generator',
     description: "A web application for getting access to the latest memes and editing the text",
       image: '/images/meme.png',
-      tags: ['Mongo', 'Api', 'React'],
+      tags: ['Javascript', 'RapidApi', 'React'],
     source: 'https://github.com/justiniyke29/meme-generator',
     visit: 'https://justiniyke-meme-generator.netlify.app',
-    id: 1,
+    id: 2,
   },
   {
     title: 'Portfolio',
@@ -24,7 +33,7 @@ export const projects = [
       tags: ['Next'],
     source: 'https://github.com/justiniyke29/justiniyke_portfolio',
     visit: 'https://justinikechukwu.netlify.app',
-    id: 2,
+    id: 3,
   },
 ];
 

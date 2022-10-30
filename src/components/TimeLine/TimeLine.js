@@ -50,7 +50,7 @@ const Timeline = () => {
         I am passionate about building excellent interactive web applications.
         I have good work experience as a MERN Stack Developer in startup's and UI/UX Designer where I was a core member of the development team. <br />
         I specialize in creating software for clients ranging from individuals and small-businesses all the way to large enterprise corporations.
-        I have experience in Frontend (HTML, CSS, Javascript, React,Redux, Next,TailwindCss, Bootstrap), Backend(Node.Js, Express), Databases(MongoDb) and UI/UX designs (Figma)<br />
+        I have experience in Frontend (HTML, CSS, Javascript, React,Redux, Next,TailwindCss,Material UI, Bootstrap), Backend(Node.Js, Express), Databases(MongoDb) and UI/UX designs (Figma)<br />
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll()}>
         <>

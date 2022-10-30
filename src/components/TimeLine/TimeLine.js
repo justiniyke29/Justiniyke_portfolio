@@ -48,10 +48,9 @@ const Timeline = () => {
       <SectionText>
         I am a Full Stack Developer.
         I am passionate about building excellent interactive web applications.
-        I have good work experience as a MERN Stack Developer in startup's and UI/UX Designer where I was core member of the development team. <br />
+        I have good work experience as a MERN Stack Developer in startup's and UI/UX Designer where I was a core member of the development team. <br />
         I specialize in creating software for clients ranging from individuals and small-businesses all the way to large enterprise corporations.
-        I have experience in Frontend (HTML, CSS, Javascript, React, Next,TailwindCss, Bootstrap), Backend(Node.Js), Databases(MongoDb) and UI/UX designs (Figma)<br />
-         What would you do if you had a software expert available at your fingertips?
+        I have experience in Frontend (HTML, CSS, Javascript, React,Redux, Next,TailwindCss, Bootstrap), Backend(Node.Js, Express), Databases(MongoDb) and UI/UX designs (Figma)<br />
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll()}>
         <>

@@ -1,13 +1,23 @@
 export const projects = [
   {
+    title: "My EventPod",
+    description:
+      "A Full stack event planning website where you can plan any event, from Weddings, Birthday Parties, Corporate Events, Baby Showers, Child Dedication, Fundraisng, Christmas Dinner Parties, Funerals, you name it.",
+    image: "/images/myeventpod.png",
+    tags: ["Next", "Typescript", "RTK-Query", "Redux", "Zendesk"],
+    source: "",
+    visit: "https://dev.myeventpod.com",
+    id: 0,
+  },
+  {
     title: "E-Commerce",
     description:
       "A modern E-Commerce website with Stripe payment options, ability to add and remove items from the sites, edit prices and many other features. ",
     image: "/images/ecommerce.png",
-    tags: ["React", "Next", "Sanity", "JavaScript"],
+    tags: ["Next", "Sanity", "Stripe", "JavaScript"],
     source: "https://github.com/justiniyke29/shopping-mall",
     visit: "https://justiniyke-shoppingmall.vercel.app",
-    id: 0,
+    id: 1,
   },
   {
     title: "Chicken City",
@@ -17,7 +27,7 @@ export const projects = [
     tags: ["React", "Flutterwave sdk", "Firebase", "JavaScript"],
     source: "https://github.com/justiniyke29/Full_Stack_Foody",
     visit: "https://full-stack-foody.vercel.app/",
-    id: 0,
+    id: 2,
   },
   {
     title: "Youtube_Clone",
@@ -27,7 +37,7 @@ export const projects = [
     tags: ["Material UI 5", "RapidApi", "React"],
     source: "https://github.com/justiniyke29/youtube_clone",
     visit: "https://justinmedia.netlify.app",
-    id: 1,
+    id: 3,
   },
   {
     title: "Justin-Fries",
@@ -37,16 +47,7 @@ export const projects = [
     tags: ["Firebase", "Material UI", "React"],
     source: "https://github.com/justiniyke29/justin-fries",
     visit: "https://justin-fries.netlify.app",
-    id: 2,
-  },
-  {
-    title: "Portfolio",
-    description: "A portfolio containing some of my achievements and works.",
-    image: "/images/port.png",
-    tags: ["Next", "Material UI5"],
-    source: "https://github.com/justiniyke29/justiniyke_portfolio",
-    visit: "https://justinikechukwu.netlify.app",
-    id: 3,
+    id: 4,
   },
 ];
 

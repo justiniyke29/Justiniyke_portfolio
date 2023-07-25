@@ -9,6 +9,16 @@ export const projects = [
     source: "",
     visit: "https://myeventpod.com",
     id: 0,
+  }, 
+   {
+    title: "Xcursions",
+    description: "At Xcursions, we are removing barriers to having a premium travel experience. Our travel processes are timely, and are handled by experts, to give you the experience you truly deserve. Travelling just got easier!",
+    image: "/images/xcursions.png",
+    tags: ["Nextjs", "Typescript","RTK Query", "Google OAuth", "Facebook Auth"],
+    showSource: false,
+    visit: "https://frontend-app-wine.vercel.app/",
+    id: 2,
+
   },
   {
     title: "E-Commerce",
@@ -20,18 +30,19 @@ export const projects = [
     source: "https://github.com/justiniyke29/shopping-mall",
     visit: "https://justiniyke-shoppingmall.vercel.app",
     id: 1,
-  },
-  {
-    title: "Chicken City",
-    description:
-      " Chicken City is a food delivery E-commerce web application built with React.js , Tailwind CSS ,Redux , flutterwave SDK as payment gateway ,framer-motion and firebase as its backend.",
-    image: "/images/chickencity.png",
-    tags: ["React", "Flutterwave sdk", "Firebase", "JavaScript"],
-    showSource: true,
-    source: "https://github.com/justiniyke29/Full_Stack_Foody",
-    visit: "https://full-stack-foody.vercel.app/",
-    id: 2,
-  },
+  }
+
+  // {
+  //   title: "Chicken City",
+  //   description:
+  //     " Chicken City is a food delivery E-commerce web application built with React.js , Tailwind CSS ,Redux , flutterwave SDK as payment gateway ,framer-motion and firebase as its backend.",
+  //   image: "/images/chickencity.png",
+  //   tags: ["React", "Flutterwave sdk", "Firebase", "JavaScript"],
+  //   showSource: true,
+  //   source: "https://github.com/justiniyke29/Full_Stack_Foody",
+  //   visit: "https://full-stack-foody.vercel.app/",
+  //   id: 2,
+  // },
   // {
   //   title: "Youtube_Clone",
   //   description:

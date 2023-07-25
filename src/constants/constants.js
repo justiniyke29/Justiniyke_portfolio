@@ -32,28 +32,28 @@ export const projects = [
     visit: "https://full-stack-foody.vercel.app/",
     id: 2,
   },
-  {
-    title: "Youtube_Clone",
-    description:
-      "Justinmedia is a youtube clone created with Reactjs, Rapidapi and Material UI 5. ",
-    image: "/images/youtube-clone.jpg",
-    tags: ["Material UI 5", "RapidApi", "React"],
-    showSource: true,
-    source: "https://github.com/justiniyke29/youtube_clone",
-    visit: "https://justinmedia.netlify.app",
-    id: 3,
-  },
-  {
-    title: "Justin-Fries",
-    description:
-      "A modern E-Commerce website with responsive UI and amazing features",
-    image: "/images/justin-fries.jpg",
-    tags: ["Firebase", "Material UI", "React"],
-    showSource: true,
-    source: "https://github.com/justiniyke29/justin-fries",
-    visit: "https://justin-fries.netlify.app",
-    id: 4,
-  },
+  // {
+  //   title: "Youtube_Clone",
+  //   description:
+  //     "Justinmedia is a youtube clone created with Reactjs, Rapidapi and Material UI 5. ",
+  //   image: "/images/youtube-clone.jpg",
+  //   tags: ["Material UI 5", "RapidApi", "React"],
+  //   showSource: true,
+  //   source: "https://github.com/justiniyke29/youtube_clone",
+  //   visit: "https://justinmedia.netlify.app",
+  //   id: 3,
+  // },
+  // {
+  //   title: "Justin-Fries",
+  //   description:
+  //     "A modern E-Commerce website with responsive UI and amazing features",
+  //   image: "/images/justin-fries.jpg",
+  //   tags: ["Firebase", "Material UI", "React"],
+  //   showSource: true,
+  //   source: "https://github.com/justiniyke29/justin-fries",
+  //   visit: "https://justin-fries.netlify.app",
+  //   id: 4,
+  // },
 ];
 
 export const TimeLineData = [

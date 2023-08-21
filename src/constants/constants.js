@@ -16,7 +16,7 @@ export const projects = [
     image: "/images/xcursions.png",
     tags: ["Nextjs", "Typescript","RTK Query", "Google OAuth", "Facebook Auth"],
     showSource: false,
-    visit: "https://frontend-app-wine.vercel.app",
+    visit: "https://staging.xcursions.ng",
     id: 2,
 
   },

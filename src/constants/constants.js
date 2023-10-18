@@ -43,15 +43,7 @@ export const projects = [
     description:
       "Memories is a Full Stack MERN application where users post their memories or experiences. It has CRUD functionalities, users can like a post, edit their post, delete and update their posts. It also features OAuth signup and registration. It was built using Material UI, Redux, MongoDB, Express js, Nodejs, React, Styled Components, Google Oauth 2.",
     image: "/images/memories.jpeg",
-    tags: [
-      "React",
-      "Redux",
-      "Express js",
-      "MongoDB",
-      "Styled Components",
-      "JavaScript",
-      "Node js",
-    ],
+    tags: ["React", "Redux", "Express js", "MongoDB", "Node js"],
     showSource: true,
     source: "https://github.com/justiniyke29/memories-mern-stack",
     visit: "https://memories-mern-stack.vercel.app/posts",

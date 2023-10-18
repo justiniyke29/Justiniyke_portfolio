@@ -42,7 +42,7 @@ export const projects = [
     title: "Memories",
     description:
       "Memories is a Full Stack MERN application where users post their memories or experiences. It has CRUD functionalities, users can like a post, edit their post, delete and update their posts. It also features OAuth signup and registration. It was built using Material UI, Redux, MongoDB, Express js, Nodejs, React, Styled Components, Google Oauth 2.",
-    image: "/images/chickencity.png",
+    image: "/images/memories.jpeg",
     tags: [
       "React",
       "Redux",

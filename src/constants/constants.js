@@ -38,28 +38,36 @@ export const projects = [
   //   id: 1,
   // }
 
-  // {
-  //   title: "Chicken City",
-  //   description:
-  //     " Chicken City is a food delivery E-commerce web application built with React.js , Tailwind CSS ,Redux , flutterwave SDK as payment gateway ,framer-motion and firebase as its backend.",
-  //   image: "/images/chickencity.png",
-  //   tags: ["React", "Flutterwave sdk", "Firebase", "JavaScript"],
-  //   showSource: true,
-  //   source: "https://github.com/justiniyke29/Full_Stack_Foody",
-  //   visit: "https://full-stack-foody.vercel.app/",
-  //   id: 2,
-  // },
-  // {
-  //   title: "Youtube_Clone",
-  //   description:
-  //     "Justinmedia is a youtube clone created with Reactjs, Rapidapi and Material UI 5. ",
-  //   image: "/images/youtube-clone.jpg",
-  //   tags: ["Material UI 5", "RapidApi", "React"],
-  //   showSource: true,
-  //   source: "https://github.com/justiniyke29/youtube_clone",
-  //   visit: "https://justinmedia.netlify.app",
-  //   id: 3,
-  // },
+  {
+    title: "Memories",
+    description:
+      "Memories is a Full Stack MERN application where users post their memories or experiences. It has CRUD functionalities, users can like a post, edit their post, delete and update their posts. It also features OAuth signup and registration. It was built using Material UI, Redux, MongoDB, Express js, Nodejs, React, Styled Components, Google Oauth 2.",
+    image: "/images/chickencity.png",
+    tags: [
+      "React",
+      "Redux",
+      "Express js",
+      "MongoDB",
+      "Styled Components",
+      "JavaScript",
+      "Node js",
+    ],
+    showSource: true,
+    source: "https://github.com/justiniyke29/memories-mern-stack",
+    visit: "https://memories-mern-stack.vercel.app/posts",
+    id: 3,
+  },
+  {
+    title: "Tube Mate",
+    description:
+      "Tube Mate is a youtube clone created with Reactjs, Rapidapi and Material UI 5. ",
+    image: "/images/youtube-clone.jpg",
+    tags: ["Material UI 5", "RapidApi", "React"],
+    showSource: true,
+    source: "https://github.com/justiniyke29/youtube_clone",
+    visit: "https://justinmedia.netlify.app",
+    id: 4,
+  },
   // {
   //   title: "Justin-Fries",
   //   description:
@@ -69,7 +77,7 @@ export const projects = [
   //   showSource: true,
   //   source: "https://github.com/justiniyke29/justin-fries",
   //   visit: "https://justin-fries.netlify.app",
-  //   id: 4,
+  //   id: 5,
   // },
 ];
 

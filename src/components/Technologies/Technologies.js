@@ -45,6 +45,9 @@ const Technologies = () => (
             Node, Express and MongoDB
           </ListParagraph>
         </ListContainer>
+      </ListItem>
+      <ListItem>
+        <DiReact size="3rem" />
         <ListContainer>
           <ListTitle>Mobile</ListTitle>
           <ListParagraph>

@@ -14,7 +14,7 @@ export const projects = [
     title: "Xcursions",
     description:
       "At Xcursions, we are removing barriers to having a premium travel experience. Our travel processes are timely, and are handled by experts, to give you the experience you truly deserve. Travelling just got easier!",
-    image: "/images/xcursions.png",
+    image: "/images/xcursions1.jpeg",
     tags: [
       "Nextjs",
       "Typescript",
@@ -23,21 +23,39 @@ export const projects = [
       "Facebook Auth",
     ],
     showSource: false,
-    visit: "https://staging.xcursions.ng",
+    visit: "https://www.xcursions.ng",
     id: 2,
   },
-  // {
-  //   title: "E-Commerce",
-  //   description:
-  //     "A modern E-Commerce website with Stripe payment options, ability to add and remove items from the sites, edit prices and many other features. ",
-  //   image: "/images/ecommerce.png",
-  //   tags: ["Next", "Sanity", "Stripe", "JavaScript"],
-  //   showSource: true,
-  //   source: "https://github.com/justiniyke29/shopping-mall",
-  //   visit: "https://justiniyke-shoppingmall.vercel.app",
-  //   id: 1,
-  // }
-
+  {
+    title: "Festival Of Sounds",
+    description:
+      "FOS is a modern Web Application that provides a platform that unites music enthusiasts, artists, and creators to celebrate the art of sound.",
+    tags: ["Next", "TypeScript", "Tailwind Css", "SASS", "Lottie"],
+    image: "/images/fos.jpeg",
+    showSource: false,
+    visit: "https://staging.festivalofsounds.com/",
+    id: 1,
+  },
+  {
+    title: "iMarketplace",
+    description:
+      "iMarketplace is a vibrant hub hosting an extensive array of products from sellers around the country. It is also home to a wide range of freelancers offering their services at competitive prices. The platform simplifies the process of owning an online store for businesses, allowing users to set up their online store in just a few steps.",
+    image: "/images/imarketplace.jpeg",
+    tags: [
+      "Stripe",
+      "Stripe Connected Accounts",
+      "Material UI",
+      "Tailwind",
+      "Node",
+      "Express",
+      "React",
+      "Sass",
+      "Next",
+    ],
+    showSource: false,
+    visit: "https://ishop.black/",
+    id: 5,
+  },
   {
     title: "Memories",
     description:
@@ -60,17 +78,6 @@ export const projects = [
     visit: "https://justinmedia.netlify.app",
     id: 4,
   },
-  // {
-  //   title: "Justin-Fries",
-  //   description:
-  //     "A modern E-Commerce website with responsive UI and amazing features",
-  //   image: "/images/justin-fries.jpg",
-  //   tags: ["Firebase", "Material UI", "React"],
-  //   showSource: true,
-  //   source: "https://github.com/justiniyke29/justin-fries",
-  //   visit: "https://justin-fries.netlify.app",
-  //   id: 5,
-  // },
 ];
 
 export const TimeLineData = [
